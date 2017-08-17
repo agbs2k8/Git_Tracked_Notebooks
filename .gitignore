@@ -90,3 +90,4 @@ ENV/
 phx-final-four-logo.jpg
 tpot_mnist_pipeline.py
 tpot_iris_pipeline.py
+*.png
